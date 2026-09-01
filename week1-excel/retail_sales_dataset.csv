@@ -1,0 +1,151 @@
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,OrderDate,Region
+1,Arjun Mehta,Smartphone,Electronics,8,8534.19,27-01-2025,South
+2,Suresh Pillai,Cricket Bat,Sports,2,480.93,25-02-2025,West
+3,Aditi Chauhan,Bed Frame,Furniture,18,6172.68,16-06-2025,North
+4,Kavya Nair,Dumbbells,Sports,19,2405.98,11-08-2025,West
+5,Pooja Desai,Laptop,Electronics,9,9395.05,15-07-2025,East
+6,Amit Kumar,Rice 5kg,Groceries,4,462.83,30-03-2025,West
+7,Priya Patel,Yoga Mat,Sports,18,1217.4,25-08-2025,West
+8,Ritu Bansal,T-Shirt,Clothing,20,3133.33,03-04-2025,East
+9,Amit Kumar,Football,Sports,8,6241.28,21-01-2025,North
+10,Sanjay Rao,Office Chair,Furniture,15,16438.58,04-04-2025,East
+11,Neha Verma,Bookshelf,Furniture,9,17992.78,24-06-2025,South
+12,Ananya Iyer,Tablet,Electronics,6,25961.51,11-03-2025,South
+13,Karan Malhotra,Football,Sports,8,6618.97,26-07-2025,North
+14,Arjun Mehta,Sugar 1kg,Groceries,7,1100.11,26-05-2025,North
+15,Isha Kapoor,Cooking Oil 1L,Groceries,15,214.3,05-02-2025,West
+16,Ritu Bansal,Bed Frame,Furniture,19,11568.19,30-05-2025,East
+17,Kavya Nair,Jacket,Clothing,17,1878.74,13-07-2025,South
+18,Vikram Singh,Smartphone,Electronics,14,33205.68,09-04-2025,South
+19,Rajesh Khanna,Saree,Clothing,18,3054.36,03-01-2025,East
+20,Ritu Bansal,Bluetooth Speaker,Electronics,11,7022.93,22-04-2025,East
+21,Rahul Sharma,Sofa,Furniture,17,19406.11,10-05-2025,East
+22,Divya Joshi,Bluetooth Speaker,Electronics,5,21190.72,11-02-2025,South
+23,Rahul Sharma,Badminton Racket,Sports,16,400.94,26-08-2025,East
+24,Kavya Nair,Atta 10kg,Groceries,8,1059.71,21-01-2025,North
+25,Isha Kapoor,Bluetooth Speaker,Electronics,18,42354.83,02-02-2025,North
+26,Ananya Iyer,Saree,Clothing,17,3091.66,19-04-2025,East
+27,Rohan Gupta,Bed Frame,Furniture,13,24886.01,16-06-2025,East
+28,Manish Tiwari,Sugar 1kg,Groceries,4,335.09,17-01-2025,West
+29,Suresh Pillai,Rice 5kg,Groceries,19,303.25,19-01-2025,South
+30,Amit Kumar,Laptop,Electronics,11,4825.37,02-03-2025,North
+31,Rohan Gupta,Sugar 1kg,Groceries,19,712.64,04-03-2025,South
+32,Rohan Gupta,Kurta,Clothing,4,2408.4,01-04-2025,North
+33,Rajesh Khanna,Kurta,Clothing,4,493.02,06-07-2025,North
+34,Kavya Nair,Rice 5kg,Groceries,7,666.73,05-02-2025,South
+35,Arjun Mehta,Jeans,Clothing,8,3098.23,20-01-2025,West
+36,Sneha Reddy,Saree,Clothing,18,2975.12,24-01-2025,North
+37,Pooja Desai,Study Table,Furniture,16,6523.06,13-04-2025,West
+38,Sanjay Rao,Laptop,Electronics,13,15320.23,20-07-2025,North
+39,Pooja Desai,Jacket,Clothing,5,906.86,25-02-2025,West
+40,Ritu Bansal,Tablet,Electronics,11,4085.98,30-05-2025,North
+41,Manish Tiwari,Saree,Clothing,2,3374.45,21-01-2025,South
+42,Aditi Chauhan,Office Chair,Furniture,8,10988.73,16-08-2025,North
+43,Suresh Pillai,Football,Sports,20,885.37,18-06-2025,North
+44,Manish Tiwari,Badminton Racket,Sports,9,1833.01,03-07-2025,East
+45,Arjun Mehta,Cooking Oil 1L,Groceries,5,822.44,18-03-2025,West
+46,Amit Kumar,Jacket,Clothing,15,2287.33,25-05-2025,North
+47,Ritu Bansal,Smartphone,Electronics,17,15320.09,27-08-2025,South
+48,Kavya Nair,Rice 5kg,Groceries,10,231.41,02-08-2025,East
+49,Aditi Chauhan,Yoga Mat,Sports,18,2570.19,19-06-2025,North
+50,Arjun Mehta,Laptop,Electronics,4,41090.24,09-02-2025,North
+51,Aditi Chauhan,Atta 10kg,Groceries,11,284.14,12-06-2025,South
+52,Isha Kapoor,Tea Packet,Groceries,2,156.14,19-04-2025,East
+53,Rahul Sharma,Rice 5kg,Groceries,5,782.68,09-03-2025,East
+54,Ritu Bansal,Sofa,Furniture,18,1727.24,20-01-2025,West
+55,Priya Patel,Bed Frame,Furniture,19,14484.34,21-04-2025,East
+56,Divya Joshi,Office Chair,Furniture,2,22624.73,23-02-2025,East
+57,Neha Verma,Office Chair,Furniture,20,19112.72,25-08-2025,West
+58,Ananya Iyer,Study Table,Furniture,1,5714.98,25-08-2025,West
+59,Kavya Nair,Sugar 1kg,Groceries,6,955.48,28-01-2025,East
+60,Isha Kapoor,T-Shirt,Clothing,7,2912.89,28-04-2025,South
+61,Kavya Nair,Atta 10kg,Groceries,1,809.04,13-04-2025,South
+62,Amit Kumar,Atta 10kg,Groceries,12,787.7,13-04-2025,East
+63,Rahul Sharma,Yoga Mat,Sports,9,1633.9,09-03-2025,North
+64,Aditi Chauhan,Smartphone,Electronics,12,40341.16,22-03-2025,West
+65,Manish Tiwari,Saree,Clothing,13,3178.31,18-02-2025,North
+66,Pooja Desai,Rice 5kg,Groceries,17,1114.41,18-05-2025,North
+67,Pooja Desai,Bookshelf,Furniture,11,16144.15,19-06-2025,North
+68,Divya Joshi,Bluetooth Speaker,Electronics,14,18613.2,28-06-2025,East
+69,Vikram Singh,Tea Packet,Groceries,14,814.67,08-04-2025,South
+70,Suresh Pillai,Bed Frame,Furniture,13,14376.52,01-01-2025,East
+71,Rohan Gupta,Atta 10kg,Groceries,19,747.66,24-03-2025,West
+72,Rajesh Khanna,Kurta,Clothing,17,1813.67,19-08-2025,South
+73,Divya Joshi,Office Chair,Furniture,3,20732.95,12-07-2025,East
+74,Kavya Nair,Bookshelf,Furniture,5,2074.0,04-03-2025,South
+75,Amit Kumar,Saree,Clothing,14,3135.52,28-05-2025,West
+76,Isha Kapoor,Sofa,Furniture,8,4967.93,26-06-2025,West
+77,Pooja Desai,Smartphone,Electronics,6,44421.74,28-06-2025,South
+78,Priya Patel,Dumbbells,Sports,4,3787.58,25-07-2025,South
+79,Ritu Bansal,Saree,Clothing,15,2260.1,04-07-2025,East
+80,Ritu Bansal,Dumbbells,Sports,6,6013.33,02-05-2025,West
+81,Kavya Nair,Jacket,Clothing,17,1850.2,03-03-2025,East
+82,Amit Kumar,Sugar 1kg,Groceries,8,362.47,23-03-2025,East
+83,Vikram Singh,Cricket Bat,Sports,8,3218.52,09-02-2025,South
+84,Pooja Desai,Office Chair,Furniture,11,14251.36,17-04-2025,West
+85,Pooja Desai,Laptop,Electronics,19,52087.3,06-01-2025,West
+86,Isha Kapoor,Dumbbells,Sports,12,2564.25,10-04-2025,North
+87,Ritu Bansal,Saree,Clothing,16,1001.37,22-04-2025,South
+88,Sanjay Rao,T-Shirt,Clothing,13,2617.1,04-08-2025,East
+89,Aditi Chauhan,Jeans,Clothing,13,2193.65,19-06-2025,North
+90,Pooja Desai,Smartphone,Electronics,15,10812.55,08-03-2025,South
+91,Rohan Gupta,Jacket,Clothing,11,1379.34,14-08-2025,West
+92,Pooja Desai,Jacket,Clothing,3,1804.45,11-07-2025,East
+93,Neha Verma,Cricket Bat,Sports,3,6304.56,16-06-2025,South
+94,Kavya Nair,Smartphone,Electronics,1,34551.75,03-03-2025,South
+95,Sneha Reddy,Sofa,Furniture,15,17937.43,16-07-2025,South
+96,Aditi Chauhan,Cooking Oil 1L,Groceries,6,1159.43,28-01-2025,North
+97,Divya Joshi,Cricket Bat,Sports,13,7546.4,20-02-2025,West
+98,Kavya Nair,Tablet,Electronics,10,46915.69,03-06-2025,North
+99,Priya Patel,Tablet,Electronics,18,24131.84,05-04-2025,East
+100,Karan Malhotra,Tablet,Electronics,14,45405.69,28-01-2025,North
+101,Rajesh Khanna,Jacket,Clothing,14,862.81,14-05-2025,South
+102,Ritu Bansal,Tea Packet,Groceries,15,550.91,07-07-2025,West
+103,Karan Malhotra,Yoga Mat,Sports,3,2411.69,26-04-2025,South
+104,Suresh Pillai,Sofa,Furniture,11,2174.45,06-08-2025,West
+105,Isha Kapoor,Cooking Oil 1L,Groceries,12,967.51,29-03-2025,South
+106,Arjun Mehta,Tea Packet,Groceries,17,1140.27,22-01-2025,North
+107,Isha Kapoor,Sofa,Furniture,16,16678.72,06-05-2025,South
+108,Amit Kumar,T-Shirt,Clothing,8,1593.49,04-03-2025,East
+109,Neha Verma,Tea Packet,Groceries,18,660.56,19-04-2025,West
+110,Neha Verma,Yoga Mat,Sports,9,2626.33,01-03-2025,West
+111,Rohan Gupta,Bluetooth Speaker,Electronics,4,41115.32,15-07-2025,East
+112,Rohan Gupta,Study Table,Furniture,9,18527.75,14-07-2025,West
+113,Divya Joshi,Badminton Racket,Sports,7,2545.91,03-04-2025,North
+114,Rahul Sharma,Bookshelf,Furniture,9,2569.62,14-01-2025,South
+115,Vikram Singh,Yoga Mat,Sports,4,7013.58,27-05-2025,West
+116,Isha Kapoor,Sugar 1kg,Groceries,11,262.02,14-01-2025,West
+117,Sneha Reddy,Sugar 1kg,Groceries,13,615.51,28-05-2025,North
+118,Vikram Singh,Laptop,Electronics,3,54671.57,31-01-2025,East
+119,Aditi Chauhan,Dumbbells,Sports,17,3197.93,21-08-2025,South
+120,Suresh Pillai,Jacket,Clothing,10,2119.18,16-01-2025,West
+121,Rohan Gupta,Cricket Bat,Sports,9,5368.32,10-02-2025,South
+122,Ritu Bansal,Study Table,Furniture,6,1562.88,26-04-2025,North
+123,Divya Joshi,Dumbbells,Sports,8,2482.81,14-03-2025,North
+124,Kavya Nair,T-Shirt,Clothing,19,2415.45,28-08-2025,East
+125,Sneha Reddy,Sofa,Furniture,5,22847.67,31-07-2025,South
+126,Priya Patel,Office Chair,Furniture,10,15483.53,31-07-2025,South
+127,Rajesh Khanna,Yoga Mat,Sports,15,5587.25,29-06-2025,North
+128,Manish Tiwari,Jacket,Clothing,15,556.49,11-01-2025,West
+129,Aditi Chauhan,Jacket,Clothing,1,591.34,22-06-2025,East
+130,Rahul Sharma,Badminton Racket,Sports,19,561.8,13-07-2025,East
+131,Manish Tiwari,Sofa,Furniture,9,5764.99,30-05-2025,West
+132,Amit Kumar,Kurta,Clothing,12,1606.12,24-03-2025,West
+133,Karan Malhotra,Laptop,Electronics,16,16563.05,13-04-2025,West
+134,Rajesh Khanna,Cricket Bat,Sports,11,2206.09,30-01-2025,North
+135,Rahul Sharma,Saree,Clothing,14,472.51,13-05-2025,West
+136,Isha Kapoor,Tea Packet,Groceries,2,284.09,21-05-2025,West
+137,Rajesh Khanna,Bookshelf,Furniture,4,2178.43,11-06-2025,West
+138,Ananya Iyer,Football,Sports,18,355.98,15-04-2025,East
+139,Sneha Reddy,Laptop,Electronics,4,35975.97,09-02-2025,West
+140,Manish Tiwari,Jacket,Clothing,14,2970.95,01-05-2025,East
+141,Ritu Bansal,Sofa,Furniture,13,5979.34,03-06-2025,South
+142,Amit Kumar,Football,Sports,14,2884.03,21-07-2025,East
+143,Rahul Sharma,Yoga Mat,Sports,10,6740.44,29-05-2025,East
+144,Rajesh Khanna,Jeans,Clothing,12,1363.14,15-07-2025,West
+145,Rajesh Khanna,Dumbbells,Sports,7,7851.0,03-03-2025,East
+146,Kavya Nair,Dumbbells,Sports,2,2715.87,02-05-2025,West
+147,Vikram Singh,Kurta,Clothing,2,703.11,01-06-2025,West
+148,Rajesh Khanna,Rice 5kg,Groceries,17,1097.01,04-01-2025,North
+149,Vikram Singh,Sofa,Furniture,16,19865.84,09-03-2025,North
+150,Sanjay Rao,Tea Packet,Groceries,11,1030.19,08-08-2025,North
